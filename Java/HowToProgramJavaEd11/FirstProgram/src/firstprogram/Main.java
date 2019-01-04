@@ -54,7 +54,7 @@ public class Main {
 
         The process of analyzing and designing a system from an object-oriented point of view is called OOAD.
 
-        A new class of objects can be created conveniently by new reserved keyword—the new class (called the subclass) starts with the characteristics of an existing class (called the superclass), possibly customizing them and adding unique characteristics of its own.
+        A new class of objects can be created conveniently by inheritance—the new class (called the subclass) starts with the characteristics of an existing class (called the superclass), possibly customizing them and adding unique characteristics of its own.
 
         Unified Modeling Language is a graphical language that allows people who design software systems to use an industry-standard notation to represent them.
 
